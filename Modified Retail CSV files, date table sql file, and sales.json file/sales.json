@@ -1,0 +1,135 @@
+[
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-02-05T00:00:00",
+    "Weekly_Sales": 24924.5,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-02-12T00:00:00",
+    "Weekly_Sales": 46039.49,
+    "IsHoliday": "1"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-02-19T00:00:00",
+    "Weekly_Sales": 41595.55,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-02-26T00:00:00",
+    "Weekly_Sales": 19403.54,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-03-05T00:00:00",
+    "Weekly_Sales": 21827.9,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-03-12T00:00:00",
+    "Weekly_Sales": 21043.39,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-03-19T00:00:00",
+    "Weekly_Sales": 22136.64,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-03-26T00:00:00",
+    "Weekly_Sales": 26229.21,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-04-02T00:00:00",
+    "Weekly_Sales": 57258.43,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-04-09T00:00:00",
+    "Weekly_Sales": 42960.91,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-04-16T00:00:00",
+    "Weekly_Sales": 17596.96,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-04-23T00:00:00",
+    "Weekly_Sales": 16145.35,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-04-30T00:00:00",
+    "Weekly_Sales": 16555.11,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-05-07T00:00:00",
+    "Weekly_Sales": 17413.94,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-05-14T00:00:00",
+    "Weekly_Sales": 18926.74,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-05-21T00:00:00",
+    "Weekly_Sales": 14773.04,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-05-28T00:00:00",
+    "Weekly_Sales": 15580.43,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-06-04T00:00:00",
+    "Weekly_Sales": 17558.09,
+    "IsHoliday": "0"
+  },
+  {
+    "Store": 1,
+    "Dept": 1,
+    "Date": "2010-06-11T00:00:00",
+    "Weekly_Sales": 16637.62,
+    "IsHoliday": "0"
+  }
+]
